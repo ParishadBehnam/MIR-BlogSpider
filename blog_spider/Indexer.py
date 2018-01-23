@@ -92,7 +92,10 @@ class MyElasticSearch:
         for row in matrix:
             s = sum(row)
             for i in range(l):
-                row[i] = ((1 - alpha) * float(row[i])) / s + alpha / l
+                if s != 0:
+                    row[i] = (((1 - alpha) * float(row[i])) / s) + (alpha / float(l))
+                else:
+                    row[i] = (alpha / float(l))
         return matrix
 
     def make_matrix(self, alpha, es):
@@ -110,18 +113,24 @@ class MyElasticSearch:
                             matrix[blog_ids[c['comment_url']]][int(d['_id']) - 1] += 1
 
         matrix = self.normalize_matrix(matrix, alpha)
+        with open('adjacency_matrix.pkl', 'wb') as outp:
+            pickle.dump(matrix, outp)
         return matrix
 
     def set_pagerank(self, alpha=0.1):
         es = Elasticsearch(['localhost'], port=9200,)
-        matrix = self.make_matrix(alpha, es)
+        with open('adjacency_matrix.pkl', 'rb') as inp:
+            matrix = pickle.load(inp)
+        # matrix = self.make_matrix(alpha, es)
         # matrix = [[0.1, 0.9],[0.3, 0.7]]
+
         eigenvalues, eigenvectors = np.linalg.eig(matrix) #in kkojash eigen vector hesab mikone akhe?:(
         # masalan eigenvalues un chizie ke ma mikhaim:D
         for i in range(len(matrix)):
-            res = es.get(index='blog_index', id=str(i + 1))
-            res['blog']['page_rank'] = eigenvalues[i]
-            es.index(index='blog_index', id=str(i + 1), body=res)
+            res = es.get(index='blog_index', doc_type='blog', id=str(i + 1))
+            res['_source']['blog']['page_rank'] = round(eigenvalues[i], 2) #ehtemalan serializationError bokhore
+            # chon masalan 0.2 ro mikone 0.199999999...9 va nemitune indexesh kone:/
+            es.index(index='blog_index', doc_type='blog', id=(i + 1), body=res)
 
 
 

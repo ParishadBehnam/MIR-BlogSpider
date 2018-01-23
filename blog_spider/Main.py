@@ -1,5 +1,6 @@
 from os import listdir
 from Indexer import MyElasticSearch
+from elasticsearch import Elasticsearch
 
 es = MyElasticSearch()
 # print(len(listdir('blogs')))
@@ -10,7 +11,7 @@ es = MyElasticSearch()
 # es.index(doc, 152)
 # print(es.get(982))
 
-# res = es.make_matrix()
+# res = es.make_matrix(0.1, Elasticsearch(['localhost'], port=9200,))
 # print(res)
 
-# es.set_pagerank()
+es.set_pagerank()
