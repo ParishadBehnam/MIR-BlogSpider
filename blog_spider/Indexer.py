@@ -2,7 +2,9 @@ from elasticsearch import Elasticsearch
 import json
 from os import listdir
 import time
-
+import numpy as np
+import pickle
+from scipy.linalg import eig
 
 class MyElasticSearch:
     def __init__(self):
@@ -59,8 +61,6 @@ class MyElasticSearch:
                         posts.append(p)
                 d['post_ids'] = post_ids
                 d['posts'] = posts
-                # if d['url'] in all_blogs:
-                #     print(filename, d['url'])
                 all_blogs[d['url']] = d
 
         for filename in listdir('posts'):
@@ -76,10 +76,71 @@ class MyElasticSearch:
                     p["post_comments"] = comments
 
         cnt = 1
+        blog_ids = {}
         for d in all_blogs.values():
             d.pop('post_ids')
-            # print(cnt, {"blog": d})
             res = es.index(index="blog_index", doc_type='blog', id=cnt, body={"blog": d})
+            blog_ids[d['url']] = cnt - 1
             cnt += 1
 
+        with open('IDs.pkl', 'wb') as outp:
+            pickle.dump(blog_ids, outp)
         print(len(all_blogs))
+
+    def normalize_matrix(selfa, matrix, alpha):
+        l = len(matrix[0])
+        for row in matrix:
+            s = sum(row)
+            for i in range(l):
+                row[i] = ((1 - alpha) * float(row[i])) / s + alpha / l
+        return matrix
+
+    def make_matrix(self, alpha, es):
+        with open('IDs.pkl', 'rb') as inp:
+            blog_ids = pickle.load(inp)
+        res = es.search(index="blog_index", body={"size": 1000, "query": {"match_all": {}}})
+        matrix = [list(np.zeros(res['hits']['total'])) for _ in range(res['hits']['total'])]
+        for d in (res['hits']['hits']):
+            blog = (d['_source']['blog'])
+            for p in blog['posts']:
+                if 'post_comments' in p:
+                    comments = p['post_comments']
+                    for c in comments:
+                        if c['comment_url'] in blog_ids:
+                            matrix[blog_ids[c['comment_url']]][int(d['_id']) - 1] += 1
+
+        matrix = self.normalize_matrix(matrix, alpha)
+        return matrix
+
+    def set_pagerank(self, alpha=0.1):
+        es = Elasticsearch(['localhost'], port=9200,)
+        matrix = self.make_matrix(alpha, es)
+        # matrix = [[0.1, 0.9],[0.3, 0.7]]
+        eigenvalues, eigenvectors = np.linalg.eig(matrix) #in kkojash eigen vector hesab mikone akhe?:(
+        # masalan eigenvalues un chizie ke ma mikhaim:D
+        for i in range(len(matrix)):
+            res = es.get(index='blog_index', id=str(i + 1))
+            res['blog']['page_rank'] = eigenvalues[i]
+            es.index(index='blog_index', id=str(i + 1), body=res)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
