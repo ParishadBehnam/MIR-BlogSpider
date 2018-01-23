@@ -67,18 +67,12 @@ class BlogSpider(scrapy.Spider):
                             page = "http:" + a_tag['href']
                             comments.append(page)
                             if (self.crawled) < self.n:
-                                # print("hiiiiiiiiiiiiii")
-                                # print(self.crawled)
-                                # print(self.n)
                                 yield response.follow(page + "/rss", callback=self.parse)
 
                     else:
                         if (a_tag['href'] not in comments):
                             comments.append(a_tag['href'])
                             if (self.crawled) < self.n:
-                                # print(self.crawled)
-                                # print(self.n)
-                                # print("hiiiiiiiiiiiiii")
                                 yield response.follow(a_tag['href'] + "/rss", callback=self.parse)
 
         post['comment_urls'] = comments
