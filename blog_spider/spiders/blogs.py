@@ -1,4 +1,6 @@
+import pickle
 import scrapy
+import sys
 
 from blog_spider.items import Blog, Post
 from bs4 import BeautifulSoup
@@ -20,6 +22,15 @@ class BlogSpider(scrapy.Spider):
 
             blog_name = soup.title.string
             blog_url = soup.link.string
+            if (blog_url is None):
+                print("+++++++++++++++++++++++++++++")
+                with open("error", "w") as fd:
+                    fd.write("++++")
+                    fd.write(response.request.url)
+                    # fd.write(blog_url)
+                    fd.write(response.text)
+                sys.exit()
+
             blog = Blog(type='blog', blog_name=blog_name, blog_url=blog_url)
 
             posts = soup.select("item")
@@ -55,25 +66,35 @@ class BlogSpider(scrapy.Spider):
         comments = []
 
         soup = BeautifulSoup(response.text, 'xml')
+        comm_el = soup.find("a", attrs={"name": "comments"})
 
-        comment_parent = soup.find("a", attrs={"name": "comments"}).parent
-        child_comments = comment_parent.findChildren()
-        for child in child_comments:
-            a_tag = child.find("a")
-            if a_tag is not None and a_tag.has_attr('href'):
-                if (".blog.ir" in a_tag['href']):
-                    if ("http:" not in a_tag['href']):
-                        if ("http:" + a_tag['href'] not in comments):
-                            page = "http:" + a_tag['href']
-                            comments.append(page)
-                            if (self.crawled) < self.n:
-                                yield response.follow(page + "/rss", callback=self.parse)
+        if comm_el is not None:
+            comment_parent = soup.find("a", attrs={"name": "comments"}).parent
+            child_comments = comment_parent.findChildren()
+            for child in child_comments:
+                a_tag = child.find("a")
+                if a_tag is not None and a_tag.has_attr('href'):
+                    a_tag_el = a_tag['href'] if a_tag['href'][-1] == "/" else a_tag['href']+"/"
+                    if (".blog.ir" == a_tag_el[-9:-1]):
+                        if ("http:" not in a_tag['href']):
+                            if ("http:" + a_tag['href'] not in comments):
+                                page = "http:" + a_tag['href']
+                                comments.append(page)
+                                if (self.crawled) < self.n:
+                                    yield response.follow(page + "/rss", callback=self.parse)
 
-                    else:
-                        if (a_tag['href'] not in comments):
-                            comments.append(a_tag['href'])
-                            if (self.crawled) < self.n:
-                                yield response.follow(a_tag['href'] + "/rss", callback=self.parse)
+                        else:
+                            if (a_tag['href'] not in comments):
+                                comments.append(a_tag['href'])
+                                if (self.crawled) < self.n:
+                                    yield response.follow(a_tag['href'] + "/rss", callback=self.parse)
 
-        post['comment_urls'] = comments
+            post['comment_urls'] = comments
         yield post
+
+    def pars_post_full_content(self, response):
+        soup = BeautifulSoup(response.text, 'xml')
+
+
+
+
