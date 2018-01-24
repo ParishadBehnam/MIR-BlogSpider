@@ -1,15 +1,15 @@
 from elasticsearch import Elasticsearch
 
 
-def search(query):
-    es = Elasticsearch(['localhost'], port=9200, )
+def search(query, address):
+    es = Elasticsearch([address])
     res = es.search(index="blog_index",
                     body={"size": 1000, 'query': make_query(query)})
     return res
 
 
-def show_urls(query):
-    result = search(query)
+def display_result(query, address='localhost:9200'):
+    result = search(query, address)
     for hit in result['hits']['hits']:
         print(hit['_id'] + ' :')
         # print(hit['_score'])

@@ -12,14 +12,14 @@ class MyElasticSearch:
 
     def install(self):
         try:
-            es = Elasticsearch(['localhost'], port=9200,)
+            es = Elasticsearch(['localhost:9200'])
             print("Connected", es.info())
             es.indices.create(index='blog_index', ignore=[])
         except Exception as ex:
             print("Error:", ex)
 
-    def delete_index(self):
-        es = Elasticsearch()
+    def delete_index(self, address='localhost:9200'):
+        es = Elasticsearch([address])
         es.indices.delete(index='blog_index', ignore=[400, 404])
 
     def index(self, doc, id, doc_type='blog'):
@@ -27,7 +27,7 @@ class MyElasticSearch:
         res = es.index(index="blog_index", doc_type=doc_type, id=id, body=doc)
 
     def get(self, id, doc_type='blog'):
-        es = Elasticsearch(['localhost'], port=9200,)
+        es = Elasticsearch(['localhost:9200'])
         res = es.get(index="blog_index", doc_type='blog', id=id)
         return res
 
@@ -40,14 +40,13 @@ class MyElasticSearch:
         res = es.search(index="blog_index", body=query)
         return res
 
-    def index_all(self):
+    def index_all(self, folder, address='localhost:9200'):
         all_blogs = {}
         posts_per_blog = {}
-        es = Elasticsearch(['localhost'], port=9200,)
-        # cnt = 0
-        for filename in listdir('blogs'):
+        es = Elasticsearch([address])
+        for filename in listdir(folder):
             filename = filename[:-5]
-            with open("blogs/" + filename + ".json") as doc:
+            with open(folder+"/" + filename + ".json") as doc:
                 js = json.loads(doc.read())
                 if js['type'] == 'blog':
                     d = dict()
@@ -69,9 +68,9 @@ class MyElasticSearch:
                     d['posts'] = posts
                     all_blogs[d['url']] = d
 
-        for filename in listdir('blogs'):
+        for filename in listdir(folder):
             filename = filename[:-5]
-            with open("blogs/" + filename + ".json", 'r+') as post:
+            with open(folder+"/" + filename + ".json", 'r+') as post:
                 js2 = json.loads(post.read())
                 if js2['type'] == 'post':
                     d = all_blogs[js2['blog_url']]
@@ -94,7 +93,7 @@ class MyElasticSearch:
         # self.make_matrix(alpha, es)
         with open('IDs.pkl', 'wb') as outp:
             pickle.dump(blog_ids, outp)
-        print(len(all_blogs))
+        print('Done')
 
     def normalize_matrix(selfa, matrix, alpha):
         l = len(matrix[0])
@@ -128,10 +127,10 @@ class MyElasticSearch:
             pickle.dump(matrix, outp)
         return matrix
 
-    def set_pagerank(self, alpha=0.1):
-        es = Elasticsearch(['localhost'], port=9200,)
+    def set_pagerank(self, alpha=0.1, address='localhost:9200'):
+        es = Elasticsearch([address])
         matrix = self.make_matrix(alpha, es)
-        print(len(matrix))
+        # print(len(matrix))
         # with open('adjacency_matrix.pkl', 'rb') as inp:
         #     matrix = pickle.load(inp)
 
