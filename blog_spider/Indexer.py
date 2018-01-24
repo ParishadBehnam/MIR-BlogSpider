@@ -1,10 +1,10 @@
+import scipy
 from elasticsearch import Elasticsearch
 import json
 from os import listdir
-import time
 import numpy as np
 import pickle
-from scipy.linalg import eig
+
 
 class MyElasticSearch:
     def __init__(self):
@@ -20,7 +20,7 @@ class MyElasticSearch:
 
     def delete_index(self):
         es = Elasticsearch()
-        es.indices.delete(index='blog_index', ignore=[])
+        es.indices.delete(index='blog_index', ignore=[400, 404])
 
     def index(self, doc, id, doc_type='blog'):
         es = Elasticsearch(['localhost'], port=9200,)
@@ -34,6 +34,11 @@ class MyElasticSearch:
     def delete(self, id, doc_type='blog'):
         es = Elasticsearch(['localhost'], port=9200,)
         res = es.delete(index="blog_index", doc_type=doc_type, id=id)
+
+    def search(self, query):
+        es = Elasticsearch(['localhost'], port=9200,)
+        res = es.search(index="blog_index", body=query)
+        return res
 
     def index_all(self):
         all_blogs = {}
@@ -70,10 +75,11 @@ class MyElasticSearch:
                 d = all_blogs[js2['blog_url']]
                 p = d['posts'][d['post_ids'][js2['post_url']]]
                 comments = list()
-                for c in js2["comment_urls"]:
-                    comments.append({"comment_url": c})
-                if len(comments) > 0:
-                    p["post_comments"] = comments
+                if 'comment_urls' in js2:
+                    for c in js2["comment_urls"]:
+                        comments.append({"comment_url": c})
+                    if len(comments) > 0:
+                        p["post_comments"] = comments
 
         cnt = 1
         blog_ids = {}
@@ -95,7 +101,9 @@ class MyElasticSearch:
                 if s != 0:
                     row[i] = (((1 - alpha) * float(row[i])) / s) + (alpha / float(l))
                 else:
-                    row[i] = (alpha / float(l))
+                    row[i] = (1 / float(l))
+        for row in matrix:
+            print(sum(row))
         return matrix
 
     def make_matrix(self, alpha, es):
@@ -121,16 +129,14 @@ class MyElasticSearch:
         es = Elasticsearch(['localhost'], port=9200,)
         with open('adjacency_matrix.pkl', 'rb') as inp:
             matrix = pickle.load(inp)
-        # matrix = self.make_matrix(alpha, es)
-        # matrix = [[0.1, 0.9],[0.3, 0.7]]
 
-        eigenvalues, eigenvectors = np.linalg.eig(matrix) #in kkojash eigen vector hesab mikone akhe?:(
-        # masalan eigenvalues un chizie ke ma mikhaim:D
-        for i in range(len(matrix)):
+        v, eigenvectors, r = scipy.linalg.eig(matrix, left=True)
+        eigenvector = (np.transpose(eigenvectors)[np.argmax(v)])
+        eigenvector /= sum(eigenvector)
+        for i in range(len(eigenvector)):
             res = es.get(index='blog_index', doc_type='blog', id=str(i + 1))
-            res['_source']['blog']['page_rank'] = round(eigenvalues[i], 2) #ehtemalan serializationError bokhore
-            # chon masalan 0.2 ro mikone 0.199999999...9 va nemitune indexesh kone:/
-            es.index(index='blog_index', doc_type='blog', id=(i + 1), body=res)
+            res['_source']['blog']['page_rank'] = eigenvector[i].real
+            es.index(index='blog_index', doc_type='blog', id=(i + 1), body=res['_source'])
 
 
 
