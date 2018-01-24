@@ -19,21 +19,21 @@ import codecs
 class JsonWithEncodingPipeline(object):
 
     def __init__(self):
-        self.blog_idx = 0
-        self.post_idx = 0
+        self.idx = 0
+        # self.post_idx = 0
 
     def process_item(self, item, spider):
         if isinstance(item, Blog):
-            self.blog_idx += 1
-            self.file = codecs.open('blogs/blog_' + str(self.blog_idx) + '.json', 'w', encoding='utf-8')
+            self.idx += 1
+            self.file = codecs.open('files/' + str(self.idx) + '.json', 'w', encoding='utf-8')
             line = json.dumps(dict(item), ensure_ascii=False)
             self.file.write(line)
             self.file.close()
             return item
 
         elif isinstance(item, Post):
-            self.post_idx += 1
-            self.file = codecs.open('posts/post_' + str(self.post_idx) + '.json', 'w', encoding='utf-8')
+            self.idx += 1
+            self.file = codecs.open('files/' + str(self.idx) + '.json', 'w', encoding='utf-8')
             line = json.dumps(dict(item), ensure_ascii=False)
             self.file.write(line)
             self.file.close()

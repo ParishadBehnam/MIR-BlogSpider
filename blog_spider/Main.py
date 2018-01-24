@@ -1,6 +1,6 @@
 from os import listdir
-from Indexer import MyElasticSearch
-from Searcher import *
+from blog_spider.IndexerSearcher.Indexer import MyElasticSearch
+from blog_spider.IndexerSearcher.Searcher import *
 from elasticsearch import Elasticsearch
 
 es = MyElasticSearch()
@@ -18,6 +18,20 @@ es = MyElasticSearch()
 
 # print(res)
 
-show_urls('', 3, 'کاخ', 1, 'پایتخت مردم', 1)
+def make_query_for_search(blog_title, blog_title_w, post_title, post_title_w, post_content, post_content_w, page_rank):
+    query = dict()
+    query['blog_title'] = [blog_title, blog_title_w]
+    query['post_title'] = [post_title, post_title_w]
+    query['post_content'] = [post_content, post_content_w]
+    query['page_rank'] = page_rank
+    return query
 
+show_urls(make_query_for_search('', 3, 'کاخ', 1, 'پایتخت مردم', 1, False))
 # es.set_pagerank()
+# es.set_pagerank()
+
+
+
+
+
+
