@@ -49,37 +49,39 @@ class MyElasticSearch:
             filename = filename[:-5]
             with open("blogs/" + filename + ".json") as doc:
                 js = json.loads(doc.read())
-                d = dict()
-                d["url"] = js["blog_url"]
-                d["title"] = js["blog_name"]
-                posts_per_blog[js['blog_url']] = []
+                if js['type'] == 'blog':
+                    d = dict()
+                    d["url"] = js["blog_url"]
+                    d["title"] = js["blog_name"]
+                    posts_per_blog[js['blog_url']] = []
 
-                posts = list()
-                post_ids = dict()
-                for post_id in range(1, 6):
-                    if "post_url_" + str(post_id) in js:
-                        p = dict()
-                        p["post_url"] = js["post_url_" + str(post_id)]
-                        p["post_title"] = js["post_title_" + str(post_id)]
-                        p["post_content"] = js["post_content_" + str(post_id)]
-                        post_ids[js["post_url_" + str(post_id)]] = (post_id - 1)
-                        posts.append(p)
-                d['post_ids'] = post_ids
-                d['posts'] = posts
-                all_blogs[d['url']] = d
+                    posts = list()
+                    post_ids = dict()
+                    for post_id in range(1, 6):
+                        if "post_url_" + str(post_id) in js:
+                            p = dict()
+                            p["post_url"] = js["post_url_" + str(post_id)]
+                            p["post_title"] = js["post_title_" + str(post_id)]
+                            p["post_content"] = js["post_content_" + str(post_id)]
+                            post_ids[js["post_url_" + str(post_id)]] = (post_id - 1)
+                            posts.append(p)
+                    d['post_ids'] = post_ids
+                    d['posts'] = posts
+                    all_blogs[d['url']] = d
 
-        for filename in listdir('posts'):
+        for filename in listdir('blogs'):
             filename = filename[:-5]
-            with open("posts/" + filename + ".json", 'r+') as post:
+            with open("blogs/" + filename + ".json", 'r+') as post:
                 js2 = json.loads(post.read())
-                d = all_blogs[js2['blog_url']]
-                p = d['posts'][d['post_ids'][js2['post_url']]]
-                comments = list()
-                if 'comment_urls' in js2:
-                    for c in js2["comment_urls"]:
-                        comments.append({"comment_url": c})
-                    if len(comments) > 0:
-                        p["post_comments"] = comments
+                if js2['type'] == 'post':
+                    d = all_blogs[js2['blog_url']]
+                    p = d['posts'][d['post_ids'][js2['post_url']]]
+                    comments = list()
+                    if 'comment_urls' in js2:
+                        for c in js2["comment_urls"]:
+                            comments.append({"comment_url": c})
+                        if len(comments) > 0:
+                            p["post_comments"] = comments
 
         cnt = 1
         blog_ids = {}
@@ -129,6 +131,7 @@ class MyElasticSearch:
     def set_pagerank(self, alpha=0.1):
         es = Elasticsearch(['localhost'], port=9200,)
         matrix = self.make_matrix(alpha, es)
+        print(len(matrix))
         # with open('adjacency_matrix.pkl', 'rb') as inp:
         #     matrix = pickle.load(inp)
 

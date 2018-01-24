@@ -12,9 +12,16 @@ def show_urls(query):
     result = search(query)
     for hit in result['hits']['hits']:
         print(hit['_id'] + ' :')
-        print(hit['_score'])
+        # print(hit['_score'])
         hit = hit['_source']
-        print(hit['blog']['url'], hit['blog']['title'], hit['blog']['page_rank'])
+        print(hit['blog']['url'], '\n', hit['blog']['title'], '\n')
+        counter = 0
+        for post in hit['blog']['posts']:
+            counter += 1
+            print('post %d :' % counter)
+            print(post['post_title'])
+            print(post['post_content'])
+        print('==============================================')
 
 
 def make_query(query):
@@ -49,7 +56,6 @@ def make_query(query):
         q['function_score']['field_value_factor'] = {
             "field": "blog.page_rank",
             "factor": 100,
-            # "modifier": "sqrt",
             "missing": 1
         }
 
