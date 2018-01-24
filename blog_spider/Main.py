@@ -18,6 +18,6 @@ es = MyElasticSearch()
 
 # print(res)
 
-show_urls({'query': {'match':{'blog.posts.post_title':'پوستر', }}})
+show_urls('', 3, 'کاخ', 1, 'پایتخت مردم', 1)
 
 # es.set_pagerank()
