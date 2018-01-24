@@ -1,22 +1,6 @@
-from os import listdir
 from IndexerSearcher.Indexer import MyElasticSearch
 from IndexerSearcher.Searcher import *
-from elasticsearch import Elasticsearch
 
-# print(len(listdir('blogs')))
-# es.delete_index()
-# es.index_all()
-# es.delete_index()
-# es.install()
-# es.index(doc, 152)
-# print(es.get(982))
-# es.set_pagerank()
-
-# print(es.search({'query': {'nested':{'path':'blog','query':{'match':{'title':'درستان | عکس و تصاویر مذهبی'}}}}}))
-# print(es.search({'query': {'match':{'blog.title':'زندگی', }}}))
-# res = es.make_matrix(0.1, Elasticsearch(['localhost'], port=9200,))
-
-# print(res)
 
 def make_query_for_search(blog_title, blog_title_w, post_title, post_title_w, post_content, post_content_w, page_rank):
     query = dict()
@@ -76,13 +60,8 @@ def cli():
             return
 
 
-
-
-# show_urls(display_result('سفر', 3, 'کاخ', 1, 'پایتخت مردم', 1, False))
-# es.set_pagerank()
-# es.set_pagerank()
+#starts from this point
 cli()
-# print(es.get(2))
 
 
 

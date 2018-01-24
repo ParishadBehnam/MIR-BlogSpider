@@ -10,9 +10,9 @@ class MyElasticSearch:
     def __init__(self):
         pass
 
-    def install(self):
+    def install(self, address='localhost:9200'):
         try:
-            es = Elasticsearch(['localhost:9200'])
+            es = Elasticsearch([address])
             print("Connected", es.info())
             es.indices.create(index='blog_index', ignore=[])
         except Exception as ex:
@@ -22,21 +22,21 @@ class MyElasticSearch:
         es = Elasticsearch([address])
         es.indices.delete(index='blog_index', ignore=[400, 404])
 
-    def index(self, doc, id, doc_type='blog'):
-        es = Elasticsearch(['localhost'], port=9200,)
+    def index(self, doc, id, address, doc_type='blog'):
+        es = Elasticsearch([address])
         res = es.index(index="blog_index", doc_type=doc_type, id=id, body=doc)
 
-    def get(self, id, doc_type='blog'):
-        es = Elasticsearch(['localhost:9200'])
+    def get(self, id, address, doc_type='blog'):
+        es = Elasticsearch([address])
         res = es.get(index="blog_index", doc_type='blog', id=id)
         return res
 
-    def delete(self, id, doc_type='blog'):
-        es = Elasticsearch(['localhost'], port=9200,)
+    def delete(self, id, address, doc_type='blog'):
+        es = Elasticsearch([address])
         res = es.delete(index="blog_index", doc_type=doc_type, id=id)
 
-    def search(self, query):
-        es = Elasticsearch(['localhost'], port=9200,)
+    def search(self, query, address):
+        es = Elasticsearch([address])
         res = es.search(index="blog_index", body=query)
         return res
 
