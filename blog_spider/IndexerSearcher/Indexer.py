@@ -5,6 +5,15 @@ from os import listdir
 import numpy as np
 import pickle
 
+class bcolors:
+    HEADER = '\033[95m'
+    OKBLUE = '\033[94m'
+    OKGREEN = '\033[92m'
+    WARNING = '\033[93m'
+    FAIL = '\033[91m'
+    ENDC = '\033[0m'
+    BOLD = '\033[1m'
+    UNDERLINE = '\033[4m'
 
 class MyElasticSearch:
     def __init__(self):
@@ -68,19 +77,22 @@ class MyElasticSearch:
                     d['posts'] = posts
                     all_blogs[d['url']] = d
 
+        print(bcolors.OKBLUE + ">>>Number of indexed blogs are: " + str(len(all_blogs)) + bcolors.ENDC)
+
         for filename in listdir(folder):
             filename = filename[:-5]
             with open(folder+"/" + filename + ".json", 'r+') as post:
                 js2 = json.loads(post.read())
                 if js2['type'] == 'post':
-                    d = all_blogs[js2['blog_url']]
-                    p = d['posts'][d['post_ids'][js2['post_url']]]
-                    comments = list()
-                    if 'comment_urls' in js2:
-                        for c in js2["comment_urls"]:
-                            comments.append({"comment_url": c})
-                        if len(comments) > 0:
-                            p["post_comments"] = comments
+                    if js2['blog_url'] in all_blogs:
+                        d = all_blogs[js2['blog_url']]
+                        p = d['posts'][d['post_ids'][js2['post_url']]]
+                        comments = list()
+                        if 'comment_urls' in js2:
+                            for c in js2["comment_urls"]:
+                                comments.append({"comment_url": c})
+                            if len(comments) > 0:
+                                p["post_comments"] = comments
 
         cnt = 1
         blog_ids = {}
@@ -93,7 +105,7 @@ class MyElasticSearch:
         # self.make_matrix(alpha, es)
         with open('IDs.pkl', 'wb') as outp:
             pickle.dump(blog_ids, outp)
-        print('Done')
+        print(bcolors.OKGREEN + '>>>Done\n' + bcolors.ENDC)
 
     def normalize_matrix(selfa, matrix, alpha):
         l = len(matrix[0])

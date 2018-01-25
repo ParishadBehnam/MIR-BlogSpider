@@ -1,36 +1,33 @@
 import pickle
+
+import logging
 import scrapy
 import sys
+import re
 
-from blog_spider.items import Blog, Post
+from blog_spider.items import Blog, Post, Post_full_content
 from bs4 import BeautifulSoup
 
 
 class BlogSpider(scrapy.Spider):
     name = "blogs"
+    n = 0
+    crawled = 0
 
     def __init__(self, urls=None, n=None, *args, **kwargs):
+        logging.getLogger('scrapy').setLevel(logging.WARNING)
         super(BlogSpider, self).__init__(*args, **kwargs)
         self.start_urls = urls.split(",")
-        self.n = int(n)
-        self.crawled = 0
+
+        BlogSpider.n = n
+        BlogSpider.crawled = 0
 
     def parse(self, response):
-        if self.crawled < self.n:
+        if BlogSpider.crawled < BlogSpider.n:
             soup = BeautifulSoup(response.text, 'xml')
-            self.crawled += 1
 
             blog_name = soup.title.string
             blog_url = soup.link.string
-            if (blog_url is None):
-                print("+++++++++++++++++++++++++++++")
-                with open("error", "w") as fd:
-                    fd.write("++++")
-                    fd.write(response.request.url)
-                    # fd.write(blog_url)
-                    fd.write(response.text)
-                sys.exit()
-
             blog = Blog(type='blog', blog_name=blog_name, blog_url=blog_url)
 
             posts = soup.select("item")
@@ -56,6 +53,13 @@ class BlogSpider(scrapy.Spider):
                     res.meta['blog_url'] = blog_url
                     yield res
 
+                    res_content = response.follow(next_page, callback=self.parse_content, priority=10, dont_filter=True)
+                    res_content.meta['blog'] = blog
+                    res_content.meta['index'] = i
+                    yield res_content
+
+            blog['max_post'] = i - 1
+
             yield blog
 
     def parse_post(self, response):
@@ -73,28 +77,38 @@ class BlogSpider(scrapy.Spider):
             child_comments = comment_parent.findChildren()
             for child in child_comments:
                 a_tag = child.find("a")
-                if a_tag is not None and a_tag.has_attr('href'):
-                    a_tag_el = a_tag['href'] if a_tag['href'][-1] == "/" else a_tag['href']+"/"
-                    if (".blog.ir" == a_tag_el[-9:-1]):
-                        if ("http:" not in a_tag['href']):
-                            if ("http:" + a_tag['href'] not in comments):
-                                page = "http:" + a_tag['href']
-                                comments.append(page)
-                                if (self.crawled) < self.n:
-                                    yield response.follow(page + "/rss", callback=self.parse)
+                p = re.compile("^(http://)?[^/]*\.blog\.ir(/)?$")
 
-                        else:
-                            if (a_tag['href'] not in comments):
-                                comments.append(a_tag['href'])
-                                if (self.crawled) < self.n:
-                                    yield response.follow(a_tag['href'] + "/rss", callback=self.parse)
+                if a_tag is not None and a_tag.has_attr('href') and p.match(a_tag['href']) is not None:
+                    a_tag_el = a_tag['href'] if a_tag['href'][-1] == "/" else a_tag['href'] + "/"
+                    http_reg = re.compile("^http(s)?://.*")
+                    a_tag_el = a_tag_el if http_reg.match(a_tag_el) is not None else "http://" + a_tag_el
+
+                    if a_tag_el not in comments:
+                        comments.append(a_tag_el)
+                        if BlogSpider.crawled < BlogSpider.n:
+                            yield response.follow(a_tag_el + "rss", callback=self.parse, priority=10)
 
             post['comment_urls'] = comments
         yield post
 
-    def pars_post_full_content(self, response):
+    def parse_content(self, response):
         soup = BeautifulSoup(response.text, 'xml')
+        blog = response.meta['blog']
+        index = response.meta['index']
 
+        if soup.find("div", class_="post") is not None:
+            desc = soup.find("div", class_="post")
 
+            if desc.find("a", attrs={"name": "comments"}) is not None:
+                comment_parent = desc.find("a", attrs={"name": "comments"}).parent
+                comment_parent.decompose()
+            if desc.find("div", attrs={"class": "date_title"}) is not None:
+                desc.find("div", attrs={"class": "date_title"}).decompose()
 
+            full_content = desc.get_text()
+        else:
+            full_content = ""
+        post_content = Post_full_content(index=index, blog=blog, content=full_content)
 
+        yield post_content
