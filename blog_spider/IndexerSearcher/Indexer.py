@@ -68,25 +68,21 @@ class MyElasticSearch:
                     d['posts'] = posts
                     all_blogs[d['url']] = d
 
-        # for b in all_blogs.keys():
-        #     print(b)
-        # print(len(all_blogs))
-        # print('----------------------------------')
         for filename in listdir(folder):
             filename = filename[:-5]
             with open(folder+"/" + filename + ".json", 'r+') as post:
                 js2 = json.loads(post.read())
                 if js2['type'] == 'post':
-                    if js2['blog_url'] not in all_blogs:
-                        print(js2)
-                    d = all_blogs[js2['blog_url']]
-                    p = d['posts'][d['post_ids'][js2['post_url']]]
-                    comments = list()
-                    if 'comment_urls' in js2:
-                        for c in js2["comment_urls"]:
-                            comments.append({"comment_url": c})
-                        if len(comments) > 0:
-                            p["post_comments"] = comments
+                    if js2['blog_url'] in all_blogs:
+                        d = all_blogs[js2['blog_url']]
+                        if js2['post_url'] in d['post_ids']:
+                            p = d['posts'][d['post_ids'][js2['post_url']]]
+                            comments = list()
+                            if 'comment_urls' in js2:
+                                for c in js2["comment_urls"]:
+                                    comments.append({"comment_url": c})
+                                if len(comments) > 0:
+                                    p["post_comments"] = comments
 
         cnt = 1
         blog_ids = {}
@@ -99,7 +95,6 @@ class MyElasticSearch:
         # self.make_matrix(alpha, es)
         with open('IDs.pkl', 'wb') as outp:
             pickle.dump(blog_ids, outp)
-        print('Done')
 
     def normalize_matrix(selfa, matrix, alpha):
         l = len(matrix[0])
@@ -110,8 +105,6 @@ class MyElasticSearch:
                     row[i] = (((1 - alpha) * float(row[i])) / s) + (alpha / float(l))
                 else:
                     row[i] = (1 / float(l))
-        # for row in matrix:
-        #     print(sum(row))
         return matrix
 
     def make_matrix(self, alpha, es):
@@ -129,14 +122,13 @@ class MyElasticSearch:
                             matrix[blog_ids[c['comment_url']]][int(d['_id']) - 1] += 1
 
         matrix = self.normalize_matrix(matrix, alpha)
-        with open('adjacency_matrix.pkl', 'wb') as outp:
-            pickle.dump(matrix, outp)
+        # with open('adjacency_matrix.pkl', 'wb') as outp:
+        #     pickle.dump(matrix, outp)
         return matrix
 
     def set_pagerank(self, alpha=0.1, address='localhost:9200'):
         es = Elasticsearch([address])
         matrix = self.make_matrix(alpha, es)
-        # print(len(matrix))
         # with open('adjacency_matrix.pkl', 'rb') as inp:
         #     matrix = pickle.load(inp)
 
