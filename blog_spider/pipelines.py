@@ -44,7 +44,6 @@ class JsonWithEncodingPipeline(object):
 
             if blog['max_post'] == 0:
                 BlogSpider.crawled += 1
-                print( BlogSpider.crawled, BlogSpider.n)
                 self.idx += 1
                 self.file = codecs.open('blogs/' + str(self.idx) + '.json', 'w', encoding='utf-8')
                 blog_dict = dict(blog)

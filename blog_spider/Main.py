@@ -34,7 +34,7 @@ def cli():
                 bcolors.BOLD + 'Which one do you want?' + bcolors.ENDC + '\n\t1)Phase1\n\t2)Phase2\n\t3)Phase3\n\t4)Phase4\n\t5)Exit\n'))
         elif state == 1:
             ls = input('Enter the base links[separated by \',\']\n')
-            ls = ls if ls != "" else 'http://mohajer.blog.ir/rss/,http://aghagol.blog.ir/rss/'
+            ls = ls if ls != "" else 'http://complex-life.blog.ir/rss/,http://aghagol.blog.ir/rss/'
             in_degree = int(input('Enter the in_degree\n'))
             n = int(input('Enter the number of crawled weblogs\n'))
 
@@ -61,7 +61,7 @@ def cli():
             es = MyElasticSearch()
             es_address = input('What is your elasticsearch address? [leave in blank if you want it to be localhost:9200]\n')
             es_address = 'localhost:9200' if es_address == '' else es_address
-            folder = input('Enter the name of your crawled files\' folder\t')
+            folder = input('Enter the name of your crawled blogs\' folder\t')
             es.index_all(folder, es_address)
             print(bcolors.OKGREEN + '>>>Done\n' + bcolors.ENDC)
             state = 0

@@ -2,1006 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e547e69-89c7-465c-8b26-ec2343024511" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_1.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_10.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_100.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_1000.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_101.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_102.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_103.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_104.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_105.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_106.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_107.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_108.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_109.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_11.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_110.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_111.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_112.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_113.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_114.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_115.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_116.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_117.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_118.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_119.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_12.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_120.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_121.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_122.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_123.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_124.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_125.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_126.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_127.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_128.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_129.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_13.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_130.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_131.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_132.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_133.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_134.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_135.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_136.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_137.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_138.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_139.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_14.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_140.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_141.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_142.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_143.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_144.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_145.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_146.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_147.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_148.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_149.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_15.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_150.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_151.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_152.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_153.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_154.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_155.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_156.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_157.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_158.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_159.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_16.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_160.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_161.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_162.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_163.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_164.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_165.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_166.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_167.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_168.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_169.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_17.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_170.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_171.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_172.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_173.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_174.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_175.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_176.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_177.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_178.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_179.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_18.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_180.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_181.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_182.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_183.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_184.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_185.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_186.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_187.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_188.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_189.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_19.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_190.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_191.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_192.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_193.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_194.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_195.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_196.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_197.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_198.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_199.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_2.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_20.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_200.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_201.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_202.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_203.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_204.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_205.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_206.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_207.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_208.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_209.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_21.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_210.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_211.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_212.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_213.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_214.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_215.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_216.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_217.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_218.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_219.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_22.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_220.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_221.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_222.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_223.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_224.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_225.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_226.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_227.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_228.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_229.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_23.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_230.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_231.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_232.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_233.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_234.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_235.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_236.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_237.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_238.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_239.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_24.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_240.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_241.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_242.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_243.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_244.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_245.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_246.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_247.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_248.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_249.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_25.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_250.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_251.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_252.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_253.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_254.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_255.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_256.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_257.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_258.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_259.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_26.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_260.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_261.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_262.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_263.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_264.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_265.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_266.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_267.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_268.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_269.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_27.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_270.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_271.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_272.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_273.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_274.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_275.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_276.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_277.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_278.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_279.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_28.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_280.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_281.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_282.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_283.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_284.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_285.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_286.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_287.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_288.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_289.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_29.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_290.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_291.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_292.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_293.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_294.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_295.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_296.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_297.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_298.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_299.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_3.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_30.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_300.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_301.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_302.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_303.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_304.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_305.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_306.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_307.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_308.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_309.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_31.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_310.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_311.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_312.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_313.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_314.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_315.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_316.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_317.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_318.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_319.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_32.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_320.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_321.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_322.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_323.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_324.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_325.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_326.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_327.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_328.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_329.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_33.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_330.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_331.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_332.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_333.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_334.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_335.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_336.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_337.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_338.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_339.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_34.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_340.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_341.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_342.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_343.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_344.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_345.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_346.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_347.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_348.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_349.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_35.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_350.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_351.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_352.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_353.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_354.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_355.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_356.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_357.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_358.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_359.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_36.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_360.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_361.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_362.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_363.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_364.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_365.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_366.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_367.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_368.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_369.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_37.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_370.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_371.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_372.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_373.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_374.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_375.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_376.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_377.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_378.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_379.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_38.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_380.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_381.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_382.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_383.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_384.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_385.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_386.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_387.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_388.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_389.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_39.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_390.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_391.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_392.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_393.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_394.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_395.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_396.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_397.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_398.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_399.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_4.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_40.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_400.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_401.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_402.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_403.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_404.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_405.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_406.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_407.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_408.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_409.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_41.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_410.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_411.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_412.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_413.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_414.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_415.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_416.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_417.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_418.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_419.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_42.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_420.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_421.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_422.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_423.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_424.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_425.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_426.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_427.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_428.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_429.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_43.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_430.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_431.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_432.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_433.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_434.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_435.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_436.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_437.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_438.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_439.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_44.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_440.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_441.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_442.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_443.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_444.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_445.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_446.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_447.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_448.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_449.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_45.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_450.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_451.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_452.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_453.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_454.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_455.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_456.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_457.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_458.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_459.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_46.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_460.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_461.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_462.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_463.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_464.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_465.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_466.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_467.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_468.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_469.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_47.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_470.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_471.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_472.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_473.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_474.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_475.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_476.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_477.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_478.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_479.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_48.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_480.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_481.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_482.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_483.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_484.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_485.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_486.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_487.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_488.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_489.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_49.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_490.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_491.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_492.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_493.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_494.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_495.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_496.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_497.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_498.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_499.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_5.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_50.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_500.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_501.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_502.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_503.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_504.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_505.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_506.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_507.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_508.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_509.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_51.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_510.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_511.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_512.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_513.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_514.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_515.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_516.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_517.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_518.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_519.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_52.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_520.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_521.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_522.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_523.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_524.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_525.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_526.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_527.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_528.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_529.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_53.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_530.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_531.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_532.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_533.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_534.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_535.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_536.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_537.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_538.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_539.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_54.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_540.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_541.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_542.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_543.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_544.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_545.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_546.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_547.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_548.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_549.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_55.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_550.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_551.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_552.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_553.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_554.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_555.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_556.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_557.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_558.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_559.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_56.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_560.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_561.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_562.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_563.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_564.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_565.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_566.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_567.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_568.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_569.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_57.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_570.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_571.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_572.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_573.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_574.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_575.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_576.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_577.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_578.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_579.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_58.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_580.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_581.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_582.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_583.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_584.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_585.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_586.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_587.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_588.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_589.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_59.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_590.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_591.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_592.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_593.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_594.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_595.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_596.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_597.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_598.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_599.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_6.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_60.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_600.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_601.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_602.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_603.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_604.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_605.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_606.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_607.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_608.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_609.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_61.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_610.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_611.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_612.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_613.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_614.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_615.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_616.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_617.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_618.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_619.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_62.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_620.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_621.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_622.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_623.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_624.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_625.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_626.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_627.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_628.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_629.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_63.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_630.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_631.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_632.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_633.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_634.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_635.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_636.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_637.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_638.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_639.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_64.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_640.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_641.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_642.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_643.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_644.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_645.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_646.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_647.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_648.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_649.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_65.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_650.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_651.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_652.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_653.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_654.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_655.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_656.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_657.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_658.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_659.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_66.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_660.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_661.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_662.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_663.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_664.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_665.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_666.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_667.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_668.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_669.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_67.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_670.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_671.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_672.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_673.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_674.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_675.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_676.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_677.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_678.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_679.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_68.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_680.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_681.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_682.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_683.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_684.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_685.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_686.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_687.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_688.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_689.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_69.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_690.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_691.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_692.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_693.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_694.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_695.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_696.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_697.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_698.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_699.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_7.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_70.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_700.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_701.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_702.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_703.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_704.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_705.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_706.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_707.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_708.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_709.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_71.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_710.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_711.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_712.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_713.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_714.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_715.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_716.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_717.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_718.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_719.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_72.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_720.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_721.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_722.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_723.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_724.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_725.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_726.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_727.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_728.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_729.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_73.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_730.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_731.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_732.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_733.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_734.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_735.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_736.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_737.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_738.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_739.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_74.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_740.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_741.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_742.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_743.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_744.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_745.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_746.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_747.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_748.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_749.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_75.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_750.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_751.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_752.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_753.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_754.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_755.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_756.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_757.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_758.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_759.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_76.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_760.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_761.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_762.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_763.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_764.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_765.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_766.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_767.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_768.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_769.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_77.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_770.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_771.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_772.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_773.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_774.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_775.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_776.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_777.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_778.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_779.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_78.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_780.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_781.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_782.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_783.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_784.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_785.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_786.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_787.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_788.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_789.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_79.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_790.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_791.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_792.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_793.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_794.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_795.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_796.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_797.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_798.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_799.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_8.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_80.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_800.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_801.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_802.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_803.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_804.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_805.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_806.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_807.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_808.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_809.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_81.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_810.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_811.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_812.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_813.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_814.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_815.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_816.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_817.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_818.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_819.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_82.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_820.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_821.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_822.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_823.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_824.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_825.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_826.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_827.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_828.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_829.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_83.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_830.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_831.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_832.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_833.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_834.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_835.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_836.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_837.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_838.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_839.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_84.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_840.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_841.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_842.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_843.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_844.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_845.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_846.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_847.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_848.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_849.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_85.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_850.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_851.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_852.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_853.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_854.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_855.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_856.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_857.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_858.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_859.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_86.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_860.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_861.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_862.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_863.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_864.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_865.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_866.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_867.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_868.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_869.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_87.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_870.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_871.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_872.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_873.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_874.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_875.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_876.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_877.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_878.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_879.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_88.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_880.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_881.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_882.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_883.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_884.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_885.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_886.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_887.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_888.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_889.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_89.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_890.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_891.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_892.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_893.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_894.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_895.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_896.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_897.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_898.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_899.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_9.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_90.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_900.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_901.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_902.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_903.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_904.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_905.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_906.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_907.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_908.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_909.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_91.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_910.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_911.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_912.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_913.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_914.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_915.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_916.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_917.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_918.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_919.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_92.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_920.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_921.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_922.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_923.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_924.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_925.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_926.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_927.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_928.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_929.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_93.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_930.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_931.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_932.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_933.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_934.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_935.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_936.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_937.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_938.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_939.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_94.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_940.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_941.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_942.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_943.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_944.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_945.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_946.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_947.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_948.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_949.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_95.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_950.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_951.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_952.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_953.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_954.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_955.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_956.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_957.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_958.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_959.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_96.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_960.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_961.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_962.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_963.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_964.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_965.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_966.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_967.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_968.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_969.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_97.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_970.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_971.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_972.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_973.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_974.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_975.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_976.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_977.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_978.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_979.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_98.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_980.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_981.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_982.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_983.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_984.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_985.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_986.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_987.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_988.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_989.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_99.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_990.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_991.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_992.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_993.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_994.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_995.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_996.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_997.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_998.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/blogs/blog_999.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/1.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/10.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/100.json" afterPath="" />
@@ -5977,49 +4977,437 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5474.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5475.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5476.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5477.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5478.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5479.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/548.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5480.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5481.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5482.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5483.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5484.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5485.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5486.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5487.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5488.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5489.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/549.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5490.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5491.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5492.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5493.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5494.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5495.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5496.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5497.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5498.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5499.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/55.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/550.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5500.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5501.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5502.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5503.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5504.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5505.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5506.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5507.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5508.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5509.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/551.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5510.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5511.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5512.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5513.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5514.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5515.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5516.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5517.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5518.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5519.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/552.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5520.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5521.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5522.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5523.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5524.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5525.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5526.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5527.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5528.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5529.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/553.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5530.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5531.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5532.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5533.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5534.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5535.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5536.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5537.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5538.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5539.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/554.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5540.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5541.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5542.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5543.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5544.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5545.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5546.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5547.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5548.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5549.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/555.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5550.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5551.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5552.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5553.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5554.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5555.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5556.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5557.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5558.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5559.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/556.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5560.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5561.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5562.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5563.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5564.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5565.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5566.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5567.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5568.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5569.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/557.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5570.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5571.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5572.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5573.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5574.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5575.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5576.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5577.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5578.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5579.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/558.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5580.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5581.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5582.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5583.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5584.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5585.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5586.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5587.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5588.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5589.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/559.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5590.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5591.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5592.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5593.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5594.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5595.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5596.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5597.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5598.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5599.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/56.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/560.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5600.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5601.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5602.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5603.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5604.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5605.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5606.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5607.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5608.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5609.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/561.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5610.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5611.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5612.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5613.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5614.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5615.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5616.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5617.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5618.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5619.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/562.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5620.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5621.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5622.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5623.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5624.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5625.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5626.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5627.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5628.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5629.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/563.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5630.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5631.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5632.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5633.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5634.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5635.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5636.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5637.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5638.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5639.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/564.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5640.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5641.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5642.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5643.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5644.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5645.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5646.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5647.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5648.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5649.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/565.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5650.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5651.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5652.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5653.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5654.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5655.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5656.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5657.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5658.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5659.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/566.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5660.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5661.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5662.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5663.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5664.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5665.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5666.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5667.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5668.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5669.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/567.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5670.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5671.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5672.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5673.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5674.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5675.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5676.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5677.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5678.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5679.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/568.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5680.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5681.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5682.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5683.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5684.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5685.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5686.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5687.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5688.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5689.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/569.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5690.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5691.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5692.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5693.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5694.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5695.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5696.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5697.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5698.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5699.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/57.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/570.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5700.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5701.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5702.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5703.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5704.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5705.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5706.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5707.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5708.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5709.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/571.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5710.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5711.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5712.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5713.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5714.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5715.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5716.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5717.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5718.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5719.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/572.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5720.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5721.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5722.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5723.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5724.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5725.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5726.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5727.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5728.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5729.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/573.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5730.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5731.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5732.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5733.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5734.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5735.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5736.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5737.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5738.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5739.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/574.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5740.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5741.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5742.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5743.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5744.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5745.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5746.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5747.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5748.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5749.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/575.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5750.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5751.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5752.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5753.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5754.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5755.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5756.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5757.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5758.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5759.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/576.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5760.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5761.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5762.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5763.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5764.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5765.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5766.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5767.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5768.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5769.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/577.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5770.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5771.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5772.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5773.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5774.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5775.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5776.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5777.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5778.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5779.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/578.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5780.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5781.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5782.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5783.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5784.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5785.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5786.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5787.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5788.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5789.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/579.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5790.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5791.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5792.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5793.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5794.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5795.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5796.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5797.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5798.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5799.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/58.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/580.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5800.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5801.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5802.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5803.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5804.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5805.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5806.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5807.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5808.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5809.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/581.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5810.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5811.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5812.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5813.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5814.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5815.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5816.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5817.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5818.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5819.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/582.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5820.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5821.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5822.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5823.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5824.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5825.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5826.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5827.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5828.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5829.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/583.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5830.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5831.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5832.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5833.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5834.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5835.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5836.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5837.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5838.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5839.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/584.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5840.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5841.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5842.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5843.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5844.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5845.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5846.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5847.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5848.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5849.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/585.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5850.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5851.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5852.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5853.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5854.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5855.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5856.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5857.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5858.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5859.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/586.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5860.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5861.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5862.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5863.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/5864.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/587.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/588.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/589.json" afterPath="" />
@@ -6478,15 +5866,11 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/997.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/998.json" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/files/999.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/quotes-10.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/quotes-11.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_spider/quotes-aghagol.blog.ir.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/blog_spider.iml" afterPath="$PROJECT_DIR$/.idea/blog_spider.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog_spider/IDs.pkl" afterPath="$PROJECT_DIR$/blog_spider/IDs.pkl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog_spider/IndexerSearcher/Indexer.py" afterPath="$PROJECT_DIR$/blog_spider/IndexerSearcher/Indexer.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog_spider/Main.py" afterPath="$PROJECT_DIR$/blog_spider/Main.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog_spider/adjacency_matrix.pkl" afterPath="$PROJECT_DIR$/blog_spider/adjacency_matrix.pkl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog_spider/items.py" afterPath="$PROJECT_DIR$/blog_spider/items.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog_spider/pipelines.py" afterPath="$PROJECT_DIR$/blog_spider/pipelines.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog_spider/spiders/blogs.py" afterPath="$PROJECT_DIR$/blog_spider/spiders/blogs.py" />
     </list>
@@ -6499,7 +5883,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/blog_spider$blog_spider.coverage" NAME="blogs Coverage Results" MODIFIED="1516378191739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/blog_spider/spiders" />
-    <SUITE FILE_PATH="coverage/blog_spider$Main.coverage" NAME="Main Coverage Results" MODIFIED="1516892712397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/blog_spider" />
+    <SUITE FILE_PATH="coverage/blog_spider$Main.coverage" NAME="Main Coverage Results" MODIFIED="1517140556080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/blog_spider" />
     <SUITE FILE_PATH="coverage/blog_spider$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1516888825263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/blog_spider" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -6508,11 +5892,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="blogs.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="blogs.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog_spider/spiders/blogs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+            <state relative-caret-position="1620">
+              <caret line="108" column="0" lean-forward="false" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -6523,8 +5907,8 @@
       <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog_spider/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="47" column="29" lean-forward="false" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
+            <state relative-caret-position="155">
+              <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
               <folding>
                 <element signature="e#193#252#0" expanded="true" />
               </folding>
@@ -6545,18 +5929,18 @@
       <file leaf-file-name="Indexer.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog_spider/IndexerSearcher/Indexer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="107" column="36" lean-forward="false" selection-start-line="107" selection-start-column="36" selection-end-line="107" selection-end-column="36" />
+            <state relative-caret-position="1353">
+              <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog_spider/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="61" column="21" lean-forward="true" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
+            <state relative-caret-position="189">
+              <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding>
                 <element signature="e#0#51#0" expanded="true" />
               </folding>
@@ -6593,11 +5977,15 @@
       <find>حس</find>
       <find>post_ids</find>
       <find>pr</find>
-      <find>print</find>
       <find>http://asmaniha.blog.ir</find>
       <find>crawled</find>
-      <find>n</find>
       <find>alpha</find>
+      <find>n</find>
+      <find>pri</find>
+      <find>prin</find>
+      <find>comple</find>
+      <find>complex</find>
+      <find>print</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -6618,20 +6006,31 @@
         <option value="$PROJECT_DIR$/blog_spider/files/13.json" />
         <option value="$PROJECT_DIR$/blog_spider/error" />
         <option value="$PROJECT_DIR$/blog_spider/items.py" />
-        <option value="$PROJECT_DIR$/blog_spider/pipelines.py" />
         <option value="$PROJECT_DIR$/blog_spider/blogs/5.json" />
-        <option value="$PROJECT_DIR$/blog_spider/blogs/7.json" />
-        <option value="$PROJECT_DIR$/blog_spider/blogs/9.json" />
         <option value="$PROJECT_DIR$/blog_spider/blogs/10.json" />
         <option value="$PROJECT_DIR$/blog_spider/blogs/11.json" />
+        <option value="$PROJECT_DIR$/blog_spider/blogs/17.json" />
+        <option value="$PROJECT_DIR$/blog_spider/IndexerSearcher/Indexer.py" />
+        <option value="$PROJECT_DIR$/blog_spider/pipelines.py" />
+        <option value="$PROJECT_DIR$/blog_spider/blogs/4.json" />
+        <option value="$PROJECT_DIR$/blog_spider/blogs/125.json" />
+        <option value="$PROJECT_DIR$/blog_spider/Main.py" />
+        <option value="$PROJECT_DIR$/blog_spider/blogs/8.json" />
+        <option value="$PROJECT_DIR$/blog_spider/blogs/9.json" />
+        <option value="$PROJECT_DIR$/blog_spider/blogs/14.json" />
         <option value="$PROJECT_DIR$/blog_spider/blogs/13.json" />
+        <option value="$PROJECT_DIR$/blog_spider/blogs/7.json" />
         <option value="$PROJECT_DIR$/blog_spider/blogs/15.json" />
         <option value="$PROJECT_DIR$/blog_spider/blogs/16.json" />
-        <option value="$PROJECT_DIR$/blog_spider/blogs/17.json" />
         <option value="$PROJECT_DIR$/blog_spider/blogs/18.json" />
+        <option value="$PROJECT_DIR$/blog_spider/blogs/19.json" />
+        <option value="$PROJECT_DIR$/blog_spider/blogs/21.json" />
+        <option value="$PROJECT_DIR$/blog_spider/blogs/22.json" />
+        <option value="$PROJECT_DIR$/blog_spider/blogs/23.json" />
+        <option value="$PROJECT_DIR$/blog_spider/blogs/25.json" />
+        <option value="$PROJECT_DIR$/blog_spider/blogs/26.json" />
+        <option value="$PROJECT_DIR$/blog_spider/blogs/38.json" />
         <option value="$PROJECT_DIR$/blog_spider/spiders/blogs.py" />
-        <option value="$PROJECT_DIR$/blog_spider/IndexerSearcher/Indexer.py" />
-        <option value="$PROJECT_DIR$/blog_spider/Main.py" />
       </list>
     </option>
   </component>
@@ -6738,7 +6137,7 @@
     <property name="ignore_missing_gitignore" value="true" />
     <property name="FullScreen" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last.edited.regexp" value="http://nilyar.blog.itttamann.blog.ir" />
+    <property name="last.edited.regexp" value="" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -6746,6 +6145,9 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.Main">
+    <configuration default="false" name="ddd.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/blog_spider/blog_spider/ddd.html">
+      <method />
+    </configuration>
     <configuration default="false" name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -6754,7 +6156,7 @@
       </envs>
       <option name="SDK_HOME" value="$USER_HOME$/phase3/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blog_spider" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="blog_spider" />
@@ -6762,9 +6164,6 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blog_spider/Main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="ddd.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/blog_spider/blog_spider/ddd.html">
       <method />
     </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
@@ -7001,8 +6400,8 @@
     </configuration>
     <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Python.Unnamed" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Main" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.ddd.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.ddd.html" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Main" />
     </list>
     <recent_temporary>
       <list size="2">
@@ -7029,16 +6428,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45720986" sideWeight="0.50277776" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45720986" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6365768" sideWeight="0.49722221" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -7064,112 +6463,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blog_spider/htmls/ashi.blog.i.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog_spider/htmls/ette.blog.i.html" />
-    <entry file="file://$PROJECT_DIR$/blog_spider/ddd.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1650">
-          <caret line="110" column="6" lean-forward="false" selection-start-line="110" selection-start-column="6" selection-end-line="110" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog_spider/htmls/ooka.blog.i.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog_spider/htmls/htar.blog.i.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog_spider/htmls/azad.blog.i.html" />
-    <entry file="file://$PROJECT_DIR$/blog_spider/htmls/egi1.blog.i.html" />
-    <entry file="file://$PROJECT_DIR$/blog_spider/htmls/agol.blog.i.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog_spider/htmls/koob.blog.i.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog_spider/htmls/mesh.blog.i.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog_spider/htmls/nina.blog.i.html" />
-    <entry file="file://$PROJECT_DIR$/blog_spider/htmls/omru.blog.i.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog_spider/htmls/-mah.blog.i.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="30" column="4" lean-forward="false" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog_spider/htmls/ajer.blog.i.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog_spider/htmls/iend.blog.i.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog_spider/htmls/kade.blog.i.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog_spider/files/5.json" />
-    <entry file="file://$PROJECT_DIR$/blog_spider/files/4.json" />
-    <entry file="file://$PROJECT_DIR$/blog_spider/files/6.json" />
-    <entry file="file://$PROJECT_DIR$/blog_spider/files/9.json" />
-    <entry file="file://$PROJECT_DIR$/blog_spider/files/10.json" />
-    <entry file="file://$PROJECT_DIR$/blog_spider/files/11.json" />
-    <entry file="file://$PROJECT_DIR$/blog_spider/files/12.json" />
-    <entry file="file://$PROJECT_DIR$/blog_spider/files/13.json" />
-    <entry file="file://$USER_HOME$/phase3/lib/python3.6/site-packages/scrapy/item.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/2.json">
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/41.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -7177,7 +6471,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/1.json">
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/42.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -7185,7 +6479,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/3.json">
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/43.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -7193,7 +6487,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/4.json">
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/44.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -7201,7 +6495,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/5.json">
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/45.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -7209,15 +6503,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/6.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="205" lean-forward="true" selection-start-line="0" selection-start-column="205" selection-end-line="0" selection-end-column="205" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/7.json">
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/46.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -7225,23 +6511,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/8.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2453">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/9.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/10.json">
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/47.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -7249,7 +6519,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/11.json">
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/48.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -7257,15 +6527,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/12.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-818">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/13.json">
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/49.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -7273,15 +6535,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/14.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3233">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/15.json">
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/50.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -7289,15 +6543,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/16.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="51" lean-forward="false" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/17.json">
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/51.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -7305,7 +6551,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/18.json">
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/52.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -7313,7 +6559,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/19.json">
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/53.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -7321,7 +6567,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/20.json">
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/54.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -7329,17 +6575,287 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog_spider/pipelines.py">
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/55.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="47" column="29" lean-forward="false" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
-          <folding>
-            <element signature="e#193#252#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog_spider/error">
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/56.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/57.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/58.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/59.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/60.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/61.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/62.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/63.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/64.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/65.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/66.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/67.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/68.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/69.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/70.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/71.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/72.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/74.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/73.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/75.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/76.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/77.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/78.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/79.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/80.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/81.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/82.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/83.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/84.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/85.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/86.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/87.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/88.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/89.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_spider/blogs/90.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -7349,36 +6865,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog_spider/spiders/blogs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+        <state relative-caret-position="1620">
+          <caret line="108" column="0" lean-forward="false" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog_spider/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog_spider/IndexerSearcher/Indexer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="107" column="36" lean-forward="false" selection-start-line="107" selection-start-column="36" selection-end-line="107" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog_spider/Main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="61" column="21" lean-forward="true" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#51#0" expanded="true" />
           </folding>
         </state>
       </provider>

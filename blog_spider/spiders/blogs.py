@@ -97,18 +97,17 @@ class BlogSpider(scrapy.Spider):
         blog = response.meta['blog']
         index = response.meta['index']
 
-        if soup.find("div", class_="post") is not None:
-            desc = soup.find("div", class_="post")
+        if soup.find("div", class_=re.compile("^post$|^post ")) is not None:
+            desc = soup.find("div", class_=re.compile("^post$|^post "))
 
             if desc.find("a", attrs={"name": "comments"}) is not None:
-                comment_parent = desc.find("a", attrs={"name": "comments"}).parent
-                comment_parent.decompose()
-            if desc.find("div", attrs={"class": "date_title"}) is not None:
-                desc.find("div", attrs={"class": "date_title"}).decompose()
+                for el in desc.find("a", attrs={"name": "comments"}).fetchNextSiblings():
+                    el.decompose()
 
             full_content = desc.get_text()
         else:
             full_content = ""
+
         post_content = Post_full_content(index=index, blog=blog, content=full_content)
 
         yield post_content
